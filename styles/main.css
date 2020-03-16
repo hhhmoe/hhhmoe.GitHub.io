@@ -992,3 +992,20 @@ td {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
       }
     
+      <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+
+<div id="gitalk-container"></div>     
+<script type="text/javascript">
+    var gitalk = new Gitalk({
+    // gitalk的主要参数
+      clientID: `80d285848efbf0a32558`,   //上面获取到的值
+      clientSecret: `6308b5c6a446d6e5e4522330a5adb7eb9532486a`,//上面获取到的值
+      repo: `blog-comments`,  //您刚才建立仓库的名字
+      owner: 'hhhmoe',   //你的GitHub用户名字
+      admin: ['hhhmoe'],  //你的GitHub用户的名字
+      id: 'indow.location.pathname', //id不能重复，如果重复就会把其他页面的评论引进来
+        });
+      gitalk.render('gitalk-container');
+</script> 
+    
