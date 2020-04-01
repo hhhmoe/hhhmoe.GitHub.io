@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://me.hor.ink</id>
     <title>Eric</title>
-    <updated>2020-03-16T08:46:16.463Z</updated>
+    <updated>2020-04-01T03:58:10.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://me.hor.ink"/>
     <link rel="self" href="https://me.hor.ink/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://me.hor.ink/images/avatar.png</logo>
     <icon>https://me.hor.ink/favicon.ico</icon>
     <rights>All rights reserved 2020, Eric</rights>
+    <entry>
+        <title type="html"><![CDATA[高考加油！！！]]></title>
+        <id>https://me.hor.ink/gao-kao-jia-you/</id>
+        <link href="https://me.hor.ink/gao-kao-jia-you/">
+        </link>
+        <updated>2020-04-01T03:23:40.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://me.hor.ink/hello-gridea/</id>
