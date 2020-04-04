@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://me.hor.ink</id>
     <title>Mr.H</title>
-    <updated>2020-04-01T15:31:45.011Z</updated>
+    <updated>2020-04-04T15:23:47.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://me.hor.ink"/>
     <link rel="self" href="https://me.hor.ink/atom.xml"/>
@@ -10,13 +10,6 @@
     <logo>https://me.hor.ink/images/avatar.png</logo>
     <icon>https://me.hor.ink/favicon.ico</icon>
     <rights>All rights reserved 2020, Mr.H</rights>
-    <entry>
-        <title type="html"><![CDATA[高考加油！！！]]></title>
-        <id>https://me.hor.ink/gao-kao-jia-you/</id>
-        <link href="https://me.hor.ink/gao-kao-jia-you/">
-        </link>
-        <updated>2020-04-01T03:23:40.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://me.hor.ink/hello-gridea/</id>
