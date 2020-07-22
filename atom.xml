@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://me.hor.ink</id>
-    <title>Mr.H</title>
-    <updated>2020-04-05T08:47:50.513Z</updated>
+    <title>[]~(￣▽￣)~*</title>
+    <updated>2020-07-22T09:35:36.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://me.hor.ink"/>
     <link rel="self" href="https://me.hor.ink/atom.xml"/>
     <subtitle>琴棋书画诗酒花，一起浪迹天涯</subtitle>
     <logo>https://me.hor.ink/images/avatar.png</logo>
     <icon>https://me.hor.ink/favicon.ico</icon>
-    <rights>All rights reserved 2020, Mr.H</rights>
+    <rights>All rights reserved 2020, []~(￣▽￣)~*</rights>
     <entry>
         <title type="html"><![CDATA[About Me]]></title>
         <id>https://me.hor.ink/about/</id>
